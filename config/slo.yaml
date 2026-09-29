@@ -7,7 +7,10 @@ primary_slo:
     total_event: 'event == "request_received"'
   target_percent: 99.5
   error_budget_percent: 0.5
-  note: Học viên phải giải thích hoặc điều chỉnh ngưỡng bằng baseline của mình.
+  note: >-
+    SLI = số response_sent có latency_ms <= 3000 chia cho số request_received.
+    SLO target 99.5% trong cửa sổ 28d; error budget = 100% - 99.5% = 0.5%.
+    Ngưỡng 3000 ms nhất quán với panel latency của dashboard.
 guardrails:
   error_rate_pct_max: 2
   daily_cost_usd_max: 2.5
