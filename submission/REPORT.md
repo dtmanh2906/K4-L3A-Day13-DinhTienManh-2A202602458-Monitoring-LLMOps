@@ -8,7 +8,7 @@
 - **MSSV:** 2A202602458
 - **Lớp:** K4-L3A
 - **Repository URL:** [https://github.com/dtmanh2906/K4-L3A-Day13-DinhTienManh-2A202602458-Monitoring-LLMOps](https://github.com/dtmanh2906/K4-L3A-Day13-DinhTienManh-2A202602458-Monitoring-LLMOps)
-- **Commit SHA cuối:** TODO: chưa có dữ liệu xác minh
+- **Commit SHA cuối:** `2a24db9bb04ecfbb04a7e421b649cf8c62fb1e91`
 - **Challenge ID:** `day13-k4-l3a-monitoring-llmops-v1`
 - **Tên project Langfuse cá nhân:** `day13-k4-l3a-2A202602458`
 
